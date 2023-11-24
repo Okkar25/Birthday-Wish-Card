@@ -1,2 +1,2 @@
 ## Demo Link
-https://birthday-wish-chan-mon.netlify.app/
+https://chan-mon-birthday-wish.netlify.app/
